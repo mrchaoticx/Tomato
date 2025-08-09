@@ -16,7 +16,7 @@ Create style sheets and render them alongside `.ripe` for `FOUC` prevention.
 
 ```js
 //Create Style Sheet
-Tomato.sauce(`color:red`);
+Tomato.sauce(`.yourClass {color:yellow; weiht: 600;}`);
 ```
 ## .vine
 Directly access elements within `.ripe` without declaration. 

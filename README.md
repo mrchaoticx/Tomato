@@ -1,5 +1,5 @@
 # Tomato
-A lightweight UI Library built on speed and needs.
+A lightweight UI Library built for every ocasion.
 
 ## .ripe
 With Tomato `.ripe()` allows us to render our HTML to the page. Either at all queries or the strictly first.
@@ -36,4 +36,3 @@ Creating a function with `.cage` by-passes limitations in `.ripe`, proper struct
 > [!NOTE]
 > Limitation `.ripe` is intended to create and render things to the page, not act as a function. `.cage` has the proper call and passes this barrier.
 > `.cage` allows you to sync and create functions otherwise you couldnt without the libarary and passes a limitation.
-```

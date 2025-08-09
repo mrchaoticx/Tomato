@@ -28,9 +28,12 @@ Directly access elements within `.ripe` without declaration.
 ## .cage
 Create synced returns to elements across the page.
 
-```structure
+```js
 Tomato.cage()
 ```
-## Performance
+Creating a function with `.cage` by-passes limitations in `.ripe`, proper structure and HOW IT CAN interact wirh `.ripe`can be seen in docs.
 
-
+> [!NOTE]
+> Limitation `.ripe` is intended to create and render things to the page not act as a function. `.cage` has the proper call and passes this barrier.
+> `.cage` allows you to sync and create functions other wise you couldnt without the libarary and passes a limitation.
+```

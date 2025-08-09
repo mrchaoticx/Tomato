@@ -1,0 +1,9 @@
+{
+  "name": "Tomato",
+  "version": "1.0.0",
+  "description": "A lightweight UI Library built for every occasion.",
+  "main": "lib/index.js",
+  "author": "mchaotix",
+  "license": "MIT",
+  "private": true
+}

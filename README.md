@@ -25,8 +25,6 @@ Directly access elements within `.ripe` without declaration.
  .vine("(#/./ )Your Element")
 ```
 
-## All knowing .ripe
-
 ## Performance
 
 

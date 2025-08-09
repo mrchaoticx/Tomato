@@ -10,3 +10,11 @@ Tomato.ripe("(#/./ )Query", false, [
   "HTML"
 ]);
 ```
+
+## .sauce 
+Create style sheets and render them alongside `.ripe` for `FOUC` prevention.
+
+```js
+//Create Style Sheet
+Tomato.sauce(`color:red`);
+```

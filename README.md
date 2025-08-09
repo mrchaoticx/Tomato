@@ -24,3 +24,8 @@ Directly access elements within `.ripe` without declaration.
 ```js
  .vine("(#/./ )Your Element")
 ```
+
+## All knowing .ripe
+
+## Performance
+

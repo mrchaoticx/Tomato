@@ -22,5 +22,5 @@ Tomato.sauce(`.yourClass {color:yellow; weiht: 600;}`);
 Directly access elements within `.ripe` without declaration. 
 
 ```js
- .vine(""(#/./ )Your Element")
+ .vine("(#/./ )Your Element")
 ```

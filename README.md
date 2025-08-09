@@ -25,6 +25,12 @@ Directly access elements within `.ripe` without declaration.
  .vine("(#/./ )Your Element")
 ```
 
+## .cage
+Create synced returns to elements across the page.
+
+```structure
+Tomato.cage()
+```
 ## Performance
 
 

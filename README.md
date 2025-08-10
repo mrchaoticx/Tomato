@@ -31,7 +31,3 @@ Create synced returns to elements across the page.
 ```js
 Tomato.cage()
 ```
-
-> [!NOTE]
-> Limitation `.ripe` is intended to create and render things to the page, not act as a function. `.cage` has the proper call and passes this barrier.
-> `.cage` allows you to sync and create functions, otherwise you couldn't without the library and passes a limitation.

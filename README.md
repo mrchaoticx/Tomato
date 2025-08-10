@@ -1,7 +1,7 @@
 # Tomato
 A lightweight UI Library built for every ocasion.
 
-## .ripe
+### .ripe
 Tomato `.ripe()` allows us to render HTML to the page. Either at all queries or strictly the first.
 
 ```js
@@ -11,23 +11,23 @@ Tomato.ripe("(#/./ )Query", false, [
 ]);
 ```
 
-## .sauce 
+### .sauce 
 Create style sheets and render them alongside `.ripe` for `FOUC` prevention.
 
 ```js
 //Create Style Sheet
 Tomato.sauce(`.yourClass {color:yellow; weiht: 600;}`);
 ```
-## .vine
+### .vine
 Directly access elements within `.ripe` without declaration. 
 
 ```js
  .vine("(#/./ )Your Element")
 ```
 
-## .cage
+### .cage
 Create synced returns to elements across the page.
 
 ```js
 Tomato.cage()
-```
+``` 
